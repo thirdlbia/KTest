@@ -1,6 +1,5 @@
-<<<<<<< master
+
 test_1
 =======
 test_1
 test_2 ¼öÁ¤
->>>>>>> refs #1
